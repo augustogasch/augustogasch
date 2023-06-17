@@ -43,6 +43,7 @@ Curioso pela programação e afins...
 
 ##
 
+![Snake animation](https://github.com/augustogasch/augustogasch/blob/output/github-contribution-grid-snake.svg)
 
 
 
