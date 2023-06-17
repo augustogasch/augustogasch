@@ -13,8 +13,8 @@
 
 ### About me:
 
-- 🔬🧪🔭👨‍🏫 Professor de Ciências 🌎🧬🪐  
-- 📚🎓 Discente do curso de Licenciatura em Física 📚 
+- 👨‍🏫 🌎🧬🪐: <b> Professor de Ciências  </b>
+- 📚🎓 <b>Discente do curso de Licenciatura em Física </b>
 
 Curioso pela programação e afins...
 
