@@ -24,7 +24,9 @@ Curioso pela programação e afins...
 ### Atualmente com:
 
 <div style="display: inline_block"><br>
+  
   <img align="center" alt="Gasch_latex" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg">
+  <img align="center" alt="Gasch_overleaf" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Overleaf_Logo.svg">
   <img align="center" alt="Gasch_Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Gasch_Cplusplus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Gasch_Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
