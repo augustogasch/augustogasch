@@ -15,7 +15,7 @@
 ### About me:
 
 - 👨‍🏫 🌎🧬🪐: <b> Professor de Ciências  </b>
-- 📚🎓 <b>Discente do curso de Licenciatura em Física </b>
+- 📚🎓 <b>Discente do curso de Licenciatura em Física - UNEB </b>
 
 Curioso pela programação e afins...
 
