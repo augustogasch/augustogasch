@@ -6,9 +6,10 @@
  <a href="http://lattes.cnpq.br/6600100841559081"><img src="https://img.shields.io/badge/Lattes%2FCNPq-D2D8FF?style=for-the-badge&logo=bookstack&logoColor=000000" alt="Lattes/CNPq"></a>
    <a href="https://replit.com/@AugustoGasch"><img src="https://img.shields.io/badge/Replit-969696?style=for-the-badge&logo=Replit&logoColor=%23F26207" alt="Replit"></a>
   <!-- Colocar o instagram depois <a href="https://instagram.com/PERFIL" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>--> 	
- <a href="https://discord.gg/BayyR26dd7" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
     <a href = "mailto:augustogasch@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/augustogaschsousachaves" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/augustogaschsousachaves" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><br><br>
+   <a href="https://discord.gg/BayyR26dd7" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+   <a href="https://www.instagram.com/chavesn252/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <img align="right" alt="Gasch_godot" height="150" width="150" src="https://cdn.discordapp.com/attachments/1119733117415063714/1119733267688603830/avatargif.gif">
 </div>
 
