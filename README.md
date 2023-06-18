@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/augustogaschsousachaves" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><br><br>
    <a href="https://discord.gg/BayyR26dd7" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
    <a href="https://www.instagram.com/chavesn252/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <img align="right" alt="Gasch_godot" height="150" width="150" src="https://cdn.discordapp.com/attachments/1119733117415063714/1119733267688603830/avatargif.gif">
+
 </div>
 
 ### About me:
@@ -32,7 +32,8 @@ Curioso pela programação e afins... Ensino e aprendizagem pela metodologia STE
   <img align="center" alt="Gasch_Cplusplus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Gasch_Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">  
   <img align="center" alt="Gasch_godot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg">
-  <img align="center" alt="Gasch_tinkercad" height="60" width="70" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Logo-tinkercad-wordmark.svg">  
+  <img align="center" alt="Gasch_tinkercad" height="60" width="70" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Logo-tinkercad-wordmark.svg">
+    <img align="right" alt="Gasch_godot" height="100" width="100" src="https://cdn.discordapp.com/attachments/1119733117415063714/1119733267688603830/avatargif.gif">
 </div>
 <br>
 
