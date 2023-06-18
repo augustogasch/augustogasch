@@ -22,7 +22,7 @@ Curioso pela programação e afins... Ensino e aprendizagem pela metodologia STE
 
 ##
 
-### Atualmente com:
+### Atuante com:
 
 <div style="display: inline_block"><br>
   
@@ -32,7 +32,7 @@ Curioso pela programação e afins... Ensino e aprendizagem pela metodologia STE
   <img align="center" alt="Gasch_Cplusplus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Gasch_Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">  
   <img align="center" alt="Gasch_godot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg">
-  
+  <img align="center" alt="Gasch_tinkercad" height="60" width="70" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Logo-tinkercad-wordmark.svg">  
 </div>
 <br>
 
