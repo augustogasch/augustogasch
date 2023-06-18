@@ -3,7 +3,8 @@
 ##
 <div> 
   <a href="https://ufpa.academia.edu/AugustoChaves" target="_blank"><img src="https://img.shields.io/badge/Academia-fff?style=for-the-badge&logo=academia&logoColor=black " target="_blank"></a>
-   <a href="https://replit.com/@AugustoGasch" target="_blank"><img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" target="_blank"></a>
+ <a href="http://lattes.cnpq.br/6600100841559081"><img src="https://img.shields.io/badge/Lattes%2FCNPq-D2D8FF?style=for-the-badge&logo=bookstack&logoColor=000000" alt="Lattes/CNPq"></a>
+   <a href="https://replit.com/@AugustoGasch"><img src="https://img.shields.io/badge/Replit-969696?style=for-the-badge&logo=Replit&logoColor=%23F26207" alt="Replit"></a>
   <!-- Colocar o instagram depois <a href="https://instagram.com/PERFIL" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>--> 	
  <a href="https://discord.gg/BayyR26dd7" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
     <a href = "mailto:augustogasch@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
