@@ -1,4 +1,4 @@
-### Olá, pessoal! Aqui é o Augusto Gasch! 👋
+### Olá, sou o Augusto Gasch! 👋
 
 ##
 <div> 
