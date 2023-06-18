@@ -18,7 +18,7 @@
 - 👨‍🏫 🌎<b> Professor de Ciências  </b>
 - 📚 🎓<b> Discente do curso de Licenciatura em Física - UNEB </b>
 
-Curioso pela programação e afins... Ansino e aprendizagem pela metodologia STEM
+Curioso pela programação e afins... Ensino e aprendizagem pela metodologia STEM
 
 ##
 
