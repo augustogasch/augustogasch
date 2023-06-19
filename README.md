@@ -20,6 +20,8 @@
 
 Curioso pela programação e afins... Ensino e aprendizagem pela metodologia STEM
 
+
+
 ##
 
 ### Atuante com:
@@ -47,6 +49,8 @@ Curioso pela programação e afins... Ensino e aprendizagem pela metodologia STE
  - 📖 : <a href="https://app.conhecimentolivre.org/book/421/T%C3%B3picos%20de%20F%C3%ADsica%20Experimental%20utilizando%20plataformas%20virtuais">Livro:</a> Tópicos de Física Experimental utilizando plataformas virtuais.
  - 📖 : <a href="https://www.granthaalayahpublication.org/journals/granthaalayah/article/view/4145/4253">Artigo:</a> <i>Improvement Of The Microfluidic Device For The Generation Of Monodisperse Microbubbles As Drug Transport Systems</i>
  - 💻: <a href="https://www.glowscript.org/#/user/Augusto%5fGasch/folder/MyPrograms/"> Simulações:</a> Algumas simulações utilizando VPython.
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=augustogasch&color=yellow" alt="Visitors" /> </p>
 
 ##
 
