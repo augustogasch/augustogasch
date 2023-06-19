@@ -26,7 +26,11 @@ Curioso pela programação e afins... Ensino e aprendizagem pela metodologia STE
 
 ### Atuante com:
 
+<img align="right" alt="Gasch_godot" height="100" width="100" src="https://cdn.discordapp.com/attachments/1119733117415063714/1119733267688603830/avatargif.gif">
+
 <div style="display: inline_block"><br>
+
+
   
   <img align="center" alt="Gasch_latex" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg">
   <img align="center" alt="Gasch_overleaf" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Overleaf_Logo.svg">
@@ -38,7 +42,7 @@ Curioso pela programação e afins... Ensino e aprendizagem pela metodologia STE
   <img align="center" alt="Gasch_Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">  
   <img align="center" alt="Gasch_godot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg">
   <img align="center" alt="Gasch_tinkercad" height="60" width="70" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Logo-tinkercad-wordmark.svg">
-    <img align="right" alt="Gasch_godot" height="100" width="100" src="https://cdn.discordapp.com/attachments/1119733117415063714/1119733267688603830/avatargif.gif">
+    
 </div>
 <br>
 
@@ -50,7 +54,7 @@ Curioso pela programação e afins... Ensino e aprendizagem pela metodologia STE
  - 📖 : <a href="https://www.granthaalayahpublication.org/journals/granthaalayah/article/view/4145/4253">Artigo:</a> <i>Improvement Of The Microfluidic Device For The Generation Of Monodisperse Microbubbles As Drug Transport Systems</i>
  - 💻: <a href="https://www.glowscript.org/#/user/Augusto%5fGasch/folder/MyPrograms/"> Simulações:</a> Algumas simulações utilizando VPython.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=augustogasch&color=yellow" alt="Visitors" /> </p>
+
 
 ##
 
@@ -60,6 +64,7 @@ Curioso pela programação e afins... Ensino e aprendizagem pela metodologia STE
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=augustogasch&show_icons=true&theme=synthwave) 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=augustogasch&color=yellow" alt="Visitors" /> </p>
 
 
 
