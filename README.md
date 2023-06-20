@@ -1,3 +1,9 @@
+<div>
+<img align="center" alt="Gasch_godot"src="https://cdn.discordapp.com/attachments/1120722581511741472/1120722644879286402/science-technology-.png"> 
+</div>
+
+##
+
 ### Olá, sou o Augusto Gasch! 👋
 
 ##
