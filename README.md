@@ -1,5 +1,5 @@
 <div>
-<img align="center" alt="Gasch_godot"src="https://cdn.discordapp.com/attachments/1120722581511741472/1120722644879286402/science-technology-.png"> 
+<img align="center" alt="Gasch_godot"src="https://cdn.discordapp.com/attachments/1120722581511741472/1120726682224037988/science-technology-_1.png"> 
 </div>
 
 ##
