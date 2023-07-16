@@ -23,8 +23,8 @@
 
 ### About me:
 
-- 👨‍🏫 🌎<b> Professor de Ciências  </b>
-- 📚 🎓<b> Discente do curso de Licenciatura em Física - UNEB </b>
+- 👨‍🏫 🌎<b> Professor de Ciências Naturais  </b>
+- 📚 🎓<b> Professor de Física </b>
 
 Curioso pela programação e afins... Ensino e aprendizagem pela metodologia STEM
 
