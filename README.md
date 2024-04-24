@@ -23,8 +23,8 @@
 
 ### About me:
 
-- 👨‍🏫 🌎<b> Professor de Ciências Naturais (Lic. em Ciências Naturais - UFPA) </b>
-- 📚 🎓<b> Professor de Física (Lic. em Física - UNEB)</b>
+- 👨‍🏫 🌎<b> Professor de Ciências Naturais</b><i> (Lic. em Ciências Naturais - UFPA) </i>
+- 📚 🎓<b> Professor de Física</b><i> (Lic. em Física - UNEB)</i>
 
 Curioso pelo ensino de ciências, por programação e afins...
 Ensino e aprendizagem pela metodologia STEM
