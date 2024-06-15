@@ -1,6 +1,4 @@
-<div>
-<img align="center" alt="Gasch_godot"src="https://cdn.discordapp.com/attachments/1120722581511741472/1120726682224037988/science-technology-_1.png" class = "center"> 
-</div>
+
 
 <br>
 
