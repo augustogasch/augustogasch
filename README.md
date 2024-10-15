@@ -23,6 +23,7 @@
 
 - 👨‍🏫 🌎<b> Professor de Ciências Naturais</b><i> (Lic. em Ciências Naturais - UFPA) </i>
 - 📚 🎓<b> Professor de Física</b><i> (Lic. em Física - UNEB)</i>
+- 🌌 🔭<b> Mestrando em Astrofísica</b><i> (ProFISICA - UESC)</i>
 
 Curioso pelo ensino de ciências, por programação e afins...
 Ensino e aprendizagem pela metodologia STEM
@@ -51,6 +52,7 @@ Ensino e aprendizagem pela metodologia STEM
 
 ### Alguns trabalhos:
 
+ - 📖 : <a href="https://www.periodicos.univasf.edu.br/index.php/revasf/article/view/2640">Artigo:</a> <i>Estudo Da Propagação De Ondas Em Cordas Vibrantes Utilizando O Smartphone Como Gerador De Áudio Frequência</i>
  - 📖 : <a href="https://app.conhecimentolivre.org/book/421/T%C3%B3picos%20de%20F%C3%ADsica%20Experimental%20utilizando%20plataformas%20virtuais">Livro:</a> Tópicos de Física Experimental utilizando plataformas virtuais.
  - 📖 : <a href="https://www.granthaalayahpublication.org/journals/granthaalayah/article/view/4145/4253">Artigo:</a> <i>Improvement Of The Microfluidic Device For The Generation Of Monodisperse Microbubbles As Drug Transport Systems</i>
  - 💻: <a href="https://www.glowscript.org/#/user/Augusto%5fGasch/folder/MyPrograms/"> Simulações:</a> Algumas simulações utilizando VPython.
