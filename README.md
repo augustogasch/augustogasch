@@ -32,7 +32,7 @@ Ensino e aprendizagem pela metodologia STEM
 
 ### Atuante com:
 
-<img align="right" alt="Gasch_godot" height="100" width="100" src="https://cdn.discordapp.com/attachments/1119733117415063714/1119733267688603830/avatargif.gif">
+<img align="right" alt="Gasch_godot" height="100" width="100" src="https://discord.com/channels/1119733116483932192/1119733117415063714/1119733267940266175">
 
 <div style="display: inline_block"><br>
   
